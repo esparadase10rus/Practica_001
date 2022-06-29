@@ -1,0 +1,15 @@
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\bin\Debug\net6.0\Example_008.exe
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\bin\Debug\net6.0\Example_008.deps.json
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\bin\Debug\net6.0\Example_008.runtimeconfig.json
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\bin\Debug\net6.0\Example_008.dll
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\bin\Debug\net6.0\Example_008.pdb
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\Example_008.csproj.AssemblyReference.cache
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\Example_008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\Example_008.AssemblyInfoInputs.cache
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\Example_008.AssemblyInfo.cs
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\Example_008.csproj.CoreCompileInputs.cache
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\Example_008.dll
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\refint\Example_008.dll
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\Example_008.pdb
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\Example_008.genruntimeconfig.cache
+C:\Users\arter\Desktop\Practica_C#_001\Example_008\obj\Debug\net6.0\ref\Example_008.dll
